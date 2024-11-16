@@ -4,3 +4,6 @@ The following code-block will be rendered as a Mermaid diagram:
 flowchart LR
   A --> B
 ```
+```mermaid
+  info
+```
